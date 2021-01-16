@@ -1,4 +1,7 @@
 # Eat-Da-Burger
+![burger](https://user-images.githubusercontent.com/70237338/104798487-4720af00-5795-11eb-9ebb-5381e6c1acc2.jpg)
+
+
 # EmployeeManagement
 
 The git repo is located here [github](https://github.com/kyleward92/EmployeeManagement.git)
