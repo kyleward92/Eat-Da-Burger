@@ -1,18 +1,18 @@
 # Eat-Da-Burger
-![burger](https://user-images.githubusercontent.com/70237338/104798487-4720af00-5795-11eb-9ebb-5381e6c1acc2.jpg)
+
+![eatdaburger](https://user-images.githubusercontent.com/70237338/104806150-4858d880-57a3-11eb-8acc-b61e5b4e1ed2.PNG)
 
 
-# EmployeeManagement
-
-The git repo is located here [github](https://github.com/kyleward92/EmployeeManagement.git)
 
 
-![EmployeeManagement](https://user-images.githubusercontent.com/70237338/104797993-d6779380-5790-11eb-8313-b4eba7ab4551.PNG)
+
+The git repo is located here [github](https://github.com/kyleward92/Eat-Da-Burger.git)
+The server application on heroku is located here  [heroku](https://eat-da-burger2021.herokuapp.com/)
 
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ## Description of the project
-A database application to track employee information. The application allows a user to add departments, roles, and employees and to later view or update the information as needed.
+This burger logger app uses MySQL, Node, Express, Handlebars, and a homemade ORM (yum!). This app follows the MVC design pattern. Eat-Da-Burger uses Node and MySQL to query and route data and uses Handlebars to generate the HTML.
     
 ## Table of Contents
 - [instructions](#-Installation-Instructions)
@@ -23,10 +23,12 @@ A database application to track employee information. The application allows a u
 - [Questions](#-Questions)
     
 ## Installation Instructions
-Copy files from github and run npm install to get the proper modules. *Run the employee.js file from terminal.
+Copy files from github and run npm install to get the proper modules.
+Run the server.js file from terminal to run the code.
+Or simply go to my link below to fill your belly
     
-## How the Project Should Be Used
-Keep track of the many employees, roles, departments, and salary
+<!-- ## How the Project Should Be Used
+Keep track of the many employees, roles, departments, and salary -->
 
     
 ## License 
@@ -36,7 +38,7 @@ This application is unlicensed
 please see contact questions.
 
 ## Overview Link
-https://drive.google.com/file/d/1T21stP1BDJeQqiI6TBXsyvv8oh1Pp9wX/view
+https://drive.google.com/file/d/10esWs6c7gw-aqfhIHbUqMRh4eo-oaAt5/view
     
 <!-- ## Test Instructions
 Download and run node index.js -->
