@@ -1,4 +1,24 @@
-body {
+
+body{
+    background-color: rgb(247, 189, 114);
+}
+
+.burger-img{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}
+
+.add-burger{
+    text-align: center;
+}
+
+.burger-form{
+    text-align: center;
+}
+/* body {
     padding: 5px;
     margin: 5px;
     background: #d8871c;
@@ -16,26 +36,5 @@ body {
   
   .form-group {
     margin-bottom: 5px;
-  }
+  } */
   
-
-
-/* body{
-    background-color: burlywood;
-}
-
-.burger-img{
-    text-align: center;
-}
-
-.title{
-    text-align: center;
-}
-
-.add-burger{
-    text-align: center;
-}
-
-.burger-form{
-    text-align: center;
-} */
