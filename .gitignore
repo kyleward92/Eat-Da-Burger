@@ -38,7 +38,7 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+# node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
@@ -55,7 +55,7 @@ typings/
 
 # Microbundle cache
 .rpt2_cache/
-.rts2_cache_cjs/
+# .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
 

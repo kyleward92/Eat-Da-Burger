@@ -1,11 +1,26 @@
 {
   "name": "02-homework",
   "version": "1.0.0",
-  "description": "",
+  "description": "![burger](https://user-images.githubusercontent.com/70237338/104798487-4720af00-5795-11eb-9ebb-5381e6c1acc2.jpg)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleward92/Eat-Da-Burger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kyleward92/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/kyleward92/Eat-Da-Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
 }

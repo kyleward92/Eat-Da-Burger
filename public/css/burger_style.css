@@ -1,4 +1,26 @@
-body{
+body {
+    padding: 5px;
+    margin: 5px;
+    background: #d8871c;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+
+
+/* body{
     background-color: burlywood;
 }
 
@@ -16,4 +38,4 @@ body{
 
 .burger-form{
     text-align: center;
-}
+} */
